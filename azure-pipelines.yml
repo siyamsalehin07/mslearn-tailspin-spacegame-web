@@ -1,6 +1,3 @@
-pool: MyAgentPool
-steps:
-- bash: echo hello world
 # APS.NET Core 
 # build and test APS .NET Core Projects tergeting .NET Core.
 # Add steps that run tests ,creat a nuGet package, deploy, and more:
